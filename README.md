@@ -48,6 +48,3 @@ pip install -r requirements.txt
 ```bash
 streamlit run main.py
 ```
-
-## Note
-The trained Random Forest model file is stored locally and is not included in this GitHub repository because of its large size.
